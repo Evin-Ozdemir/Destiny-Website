@@ -5,10 +5,7 @@
  <h2>📸 Project Demo</h2>
  <p>Preview the interactive features and animations that bring the Destiny Website to life.</p>
 
-
-![ScreenRecording2024-12-13at210801_compressed-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/abc196f3-c01d-4132-a145-8dffb7044697)
-
-
+https://github.com/user-attachments/assets/d5d2f93f-88da-4493-a210-597f177cbb43
 
 <h2>🛠️ Technologies Used</h2>
  <ul>

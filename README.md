@@ -6,7 +6,8 @@
  <p>Preview the interactive features and animations that bring the Destiny Website to life.</p>
 
 
-https://github.com/user-attachments/assets/469a0b99-9c27-451a-a59c-06f5c87281de
+![ScreenRecording2024-12-13at210801_compressed-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/abc196f3-c01d-4132-a145-8dffb7044697)
+
 
 
 <h2>🛠️ Technologies Used</h2>

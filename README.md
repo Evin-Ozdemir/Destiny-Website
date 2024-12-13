@@ -6,6 +6,7 @@
  <p>Preview the interactive features and animations that bring the Destiny Website to life.</p>
 
 
+https://github.com/user-attachments/assets/469a0b99-9c27-451a-a59c-06f5c87281de
 
 
 <h2>🛠️ Technologies Used</h2>
